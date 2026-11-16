@@ -1,6 +1,6 @@
 <!-- Animated Top Wave Banner with Name -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:06b6d4&height=220&section=header&text=YOUR%20NAME&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Tech%20Enthusiast%20|%20Problem%20Solver&descAlignY=58&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:06b6d4&height=220&section=header&text=Sankesh%20Akalanka&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Tech%20Enthusiast%20|%20Problem%20Solver&descAlignY=58&descSize=18" width="100%" />
 </div>
 
 <!-- Typing Animation -->
@@ -16,7 +16,7 @@
   <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:sankeshakalanka1028@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://yourportfolio.com" target="_blank">
@@ -45,7 +45,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,python,java,cpp,mysql,postgres,mongodb,firebase,docker,aws,git,github,linux,vscode,figma&perline=8" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,python,java,cpp,mysql,postgres,mongodb,firebase,docker,aws,git,github,linux,vscode,figma,intelljidea&perline=8" />
   </a>
 </div>
 
